@@ -33,8 +33,8 @@ const projectData = [
   {
     img: './images/cinebite-thumbnail.png',
     title: 'Cinebite',
-    duration: '2025.06-',
-    role: '팀 프로젝트 (진행 중)',
+    duration: '2025.06',
+    role: '팀 프로젝트',
     desc: '짧은 러닝타임 기반 영화 큐레이션 웹사이트 입니다. 사용자가 원하는 영화 길이를 슬라이더로 설정하면, 그에 맞는 영화를 추천해주는 웹서비스입니다. 간결한 UI와 테마별 큐레이션으로 빠르게 영화 탐색이 가능합니다.',
     links: [
       {
